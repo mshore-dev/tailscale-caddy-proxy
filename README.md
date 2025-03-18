@@ -1,5 +1,8 @@
 This is the repository of the Tailscale-Caddy proxy, a docker image that enables easy sharing of docker HTTP services over the Tailscale network via HTTPS.
 
+# Fork
+All credit goes to the original creator, [hollie](https://github.com/hollie), I just wanted a GitHub action to build and publish to the GitHub Container Registry.
+
 # Rationale
 
 I have a few docker web services I want to share with other users.
